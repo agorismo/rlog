@@ -1,0 +1,18 @@
+[package]
+name = "rlog"
+version = "0.1.0"
+edition = "2021"
+authors = ["agorismo leserjury@gmail.com"]
+description = "Um analisador interativo de logs em Rust para o terminal."
+
+[dependencies]
+# CLI Parsing
+clap = { version = "4.4", features = ["derive"] }
+
+# TUI & Terminal Interface
+ratatui = "0.26"
+crossterm = "0.27"
+
+# Manipulação de erros e utilitários
+anyhow = "1.0"
+regex = "1.10"
