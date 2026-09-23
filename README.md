@@ -2,9 +2,9 @@
 
 **rlog** é um analisador e visualizador de logs interativo (*TUI*) desenvolvido em Rust, feito para ser extremamente leve, rápido e simples de usar diretamente no terminal Linux.
 
-![License](https://img.shields.io/github/license/agorismo/rlog?color=blue)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Rust](https://img.shields.io/badge/rust-2021-orange.svg)
-![Release](https://img.shields.io/github/v/release/agorismo/rlog?color=green)
+![Platform](https://img.shields.io/badge/platform-Arch%20Linux-blueviolet.svg)
 
 ---
 
